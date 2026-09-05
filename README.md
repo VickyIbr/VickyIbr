@@ -1,16 +1,19 @@
-## Hi there 👋
+# Vicky Ibrahimovic
 
-<!--
-**VickyIbr/VickyIbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Student · Software Engineer · DevOps Engineer**
 
-Here are some ideas to get you started:
+Building software, designing systems, and exploring infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying at **Universitas Indonesia**.
+
+### Interests
+
+Software Engineering · System Design · DevOps · Web Development
+
+### Stack
+
+TypeScript · JavaScript · Python · PHP · Next.js · React · Laravel · Odoo · Docker · Linux
+
+### Links
+
+[Website](https://vicky.id) · [LinkedIn](https://linkedin.com/in/vickyibr) · [Instagram](https://instagram.com/vicky.ibr)
